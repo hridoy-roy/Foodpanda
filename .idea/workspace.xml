@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1783ec61-bf38-4e2f-ada6-aa9d8afa8eff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/foodpanda/assets/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/foodpanda/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/foodpanda/functions.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +52,8 @@
       <updated>1608903066180</updated>
       <workItem from="1608903074013" duration="5814000" />
       <workItem from="1608990050210" duration="3122000" />
-      <workItem from="1609087084398" duration="2576000" />
+      <workItem from="1609087084398" duration="2903000" />
+      <workItem from="1609170145166" duration="626000" />
     </task>
     <servers />
   </component>
